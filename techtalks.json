@@ -39,6 +39,16 @@
       "type": "werkcollege",
       "doelgroep": "",
       "twitter": ""
+    },
+    {
+      "spreker": "Marcel Goethals",
+      "foto": "https://miro.medium.com/max/3150/1*4E8Ui8pETAc_vSbHZolxIQ.jpeg",
+      "titel": "geschiedenis van de slimme stad",
+      "omschrijving": "Smart Cities lijken een nieuw fenomeen, maar het gaat verder terug dan je denkt.",
+      "niveau": "beginner",
+      "type": "presentatie",
+      "doelgroep": "",
+      "twitter": ""
     }
   ],
   "labels": {
