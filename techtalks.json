@@ -2,7 +2,7 @@
   "techtalks": [
     {
       "spreker": "Niene Boeijen",
-      "foto": "https://img.codefor.nl/?url=http://www.webmapper.net/img/niene.png&width=800",
+      "foto": "http://www.webmapper.net/img/niene.png",
       "titel": "workshop web - data - geo",
       "omschrijving": "Web essentials voor geo, geo essentials voor web. Je hoeft geen GIS- of web-expert te zijn, maar dat mag wel!",
       "niveau": "beginner, expert",
@@ -12,7 +12,7 @@
     },
     {
       "spreker": "Johan Groenen",
-      "foto": "https://img.codefor.nl/?url=https://pbs.twimg.com/profile_images/1070002308715565057/A-lpi-UL_400x400.jpg&width=800",
+      "foto": "https://pbs.twimg.com/profile_images/1070002308715565057/A-lpi-UL_400x400.jpg",
       "titel": "introductie web en api's",
       "omschrijving": "Hoe werkt het web en wat zijn web services? Een introductie voor beleidsmakers en projectmanagers.",
       "niveau": "beginner",
@@ -32,7 +32,7 @@
     },
     {
       "spreker": "Yvonne de Meij van Streefkerk",
-      "foto": "https://img.codefor.nl/?url=https://yt3.ggpht.com/a/AGF-l79Ktqa8j3CU5Pvh2VbdKTTRn9oOt971ZRxttg=s900-c-k-c0xffffffff-no-rj-mo",
+      "foto": "https://yt3.ggpht.com/a/AGF-l79Ktqa8j3CU5Pvh2VbdKTTRn9oOt971ZRxttg=s900-c-k-c0xffffffff-no-rj-mo",
       "titel": "iedereen kan tekenen",
       "omschrijving": "Waar woorden soms leiden tot misverstanden en onbegrip, kun je tekenen inzetten voor communicatie en samenwerking.",
       "niveau": "beginner",
