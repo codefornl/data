@@ -1,0 +1,22 @@
+{
+  "leestips": [
+    {
+      "titel": "Government as a Platform Playbook",
+      "url": "https://platformland.github.io/playbook/book/text/0-3-contents.html",
+      "omschrijving": "transformatie overheid naar digitale organisatie.",
+      "mentions": "@CodeForAll"
+    },
+    {
+      "titel": "De-risking custom technology projects",
+      "url": "https://github.com/18F/technology-budgeting/blob/master/handbook.md",
+      "omschrijving": "Handboek @18f over verminderen risico's aanbesteden (maatwerk) software.",
+      "mentions": ""
+    },
+    {
+      "titel": "Standard for Public Code",
+      "url": "https://standard.publiccode.net",
+      "omschrijving": "Handboek bouwen eigen open source oplossingen, met oog op herbruikbaarheid andere steden.",
+      "mentions": "@publiccodenet"
+    }
+  ]
+}
