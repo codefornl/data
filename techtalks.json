@@ -59,6 +59,16 @@
       "type": "presentatie",
       "doelgroep": "",
       "twitter": ""
+    },
+    {
+      "spreker": "Joris Boeren",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTsCeR1zuZ9JfNAQ1Hh9X4tzxnnzHeBZMnOjnHW-_DQ8_L_xDF",
+      "titel": "Agile werken",
+      "omschrijving": "Beginnen met Agile werken in teams en opschalen van Agile werken.",
+      "niveau": "beginner",
+      "type": "presentatie",
+      "doelgroep": "",
+      "twitter": ""
     }
   ],
   "labels": {
