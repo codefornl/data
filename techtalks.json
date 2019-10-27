@@ -49,6 +49,16 @@
       "type": "presentatie",
       "doelgroep": "",
       "twitter": ""
+    },
+    {
+      "spreker": "Willy Tadema",
+      "foto": "https://pbs.twimg.com/profile_images/1032285340302802946/eBhbcopV_400x400.jpg",
+      "titel": "open data",
+      "omschrijving": "Beginnen met open data; hoe, wat en waarom.",
+      "niveau": "beginner",
+      "type": "presentatie",
+      "doelgroep": "",
+      "twitter": ""
     }
   ],
   "labels": {
