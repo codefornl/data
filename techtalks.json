@@ -69,6 +69,16 @@
       "type": "presentatie",
       "doelgroep": "",
       "twitter": ""
+    },
+    {
+      "spreker": "Fleur Praal",
+      "foto": "https://pbs.twimg.com/profile_images/842125977782214659/wADSTW8p_400x400.jpg",
+      "titel": "Introductie datagebruik",
+      "omschrijving": "Kun je data altijd middelen? Wanneer gebruik je een cirkeldiagram? Leer wat data is, en hoe je het gebruikt.",
+      "niveau": "beginner",
+      "type": "presentatie",
+      "doelgroep": "",
+      "twitter": ""
     }
   ],
   "labels": {
