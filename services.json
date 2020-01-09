@@ -1,0 +1,35 @@
+{
+  "services": {
+    "clarity.codefor.nl": {
+      "type": "web application",
+      "repository-uri": "https://github.com/codefornl/codefornl.github.io",
+      "server": "github"
+    },
+    "cbase.codefor.nl": {
+      "type": "web api",
+      "repository-uri": "https://github.com/codefornl/clarity",
+      "server": "apitecture"
+    },
+    "click.codefor.nl": {
+      "type": "web api",
+      "server": "rancher",
+      "repository-uri": ""
+    },
+    "events.codefor.nl": {
+      "type": "dynamic website",
+      "server": "apitecture",
+      "data": "[google calendar link]",
+      "repository-uri": ""
+    },
+    "praatmee.codefor.nl": {
+      "type": "dynamic website",
+      "server": "apitecture",
+      "repository": ""
+    },
+    "www.codefor.nl": {
+      "type": "static website",
+      "repository-uri": "https://github.com/codefornl/codefornl.github.io",
+      "server": "github"
+    }
+  }
+}
