@@ -4,25 +4,43 @@
       "titel": "Government as a Platform Playbook",
       "url": "https://platformland.github.io/playbook/book/text/0-3-contents.html",
       "omschrijving": "Tips voor transformatie overheid naar digitale organisatie",
-      "mentions": "@CodeForAll"
+      "mentions": "@CodeForAll",
+      "type": "manual"
     },
     {
       "titel": "De-risking custom technology projects",
       "url": "https://github.com/18F/technology-budgeting/blob/master/handbook.md",
       "omschrijving": "Handboek voor verminderen risico's aanbesteden maatwerk software",
-      "mentions": "@18f"
+      "mentions": "@18f",
+      "type": "manual"
     },
     {
       "titel": "Standard for Public Code",
       "url": "https://standard.publiccode.net",
       "omschrijving": "Handboek voor zelf herbruikbare open source oplossingen maken",
-      "mentions": "@publiccodenet"
+      "mentions": "@publiccodenet",
+      "type": "manual"
     },
     {
       "titel": "The Culture Map",
       "url": "https://www.bol.com/nl/f/the-culture-map/9200000025775143/",
       "omschrijving": "Decoding How People Think, Lead, and Get Things Done Across Cultures",
-      "mentions": "@CodeForAll @miblon"
+      "mentions": "@CodeForAll @miblon",
+      "type": "book"
+    },
+    {
+      "titel": "Studio Tegengif",
+      "url": "https://open.spotify.com/show/2PvuINMQ0JO078G2vjZSvm?si=j7sR6a7OS52JX1n7DLNF_Q",
+      "omschrijving": "De tweewekelijkse babbelshow waarin Randy, Wimar en Wouter discussiëren over de gekte in het politieke debat.",
+      "mentions": "@WouterWelling",
+      "type": "podcast"
+    },
+    {
+      "titel": "Betrouwbare Bronnen",
+      "url": "https://open.spotify.com/episode/7jrCNBOKaTWC5qeMykZUad?si=7Kr71oZgRN-7Hpzjo6SlSQ",
+      "omschrijving": "Our guest in this episode is Roberto Viola, director-general for Communications Networks, Content and Technology (CONNECT) of the European Commission.",
+      "mentions": "@ViolaRoberto",
+      "type": "podcast"
     }
   ]
 }
