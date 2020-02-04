@@ -55,6 +55,13 @@
       "omschrijving": "Our guest in this episode is Roberto Viola, director-general for Communications Networks, Content and Technology (CONNECT) of the European Commission.",
       "mentions": "@ViolaRoberto",
       "type": "podcast"
+    },
+    {
+      "titel": "ACM FAT 2020 Accepted Papers",
+      "url": "https://facctconference.org/2020/acceptedpapers.html",
+      "omschrijving": "A computer science conference with a cross-disciplinary focus that brings together researchers and practitioners interested in fairness, accountability, and transparency in socio-technical systems.",
+      "mentions": "@MarankeWieringa",
+      "type": "papers"
     }
   ]
 }
